@@ -210,9 +210,7 @@ The project uses a student placement dataset containing academic, technical, and
 
 ## 👨‍💻 Author
 
-**Safiya Sulthana**
-
-Machine Learning & Full Stack Developer
+**Shaik Safiya Sulthana**
 
 ---
 
@@ -228,4 +226,4 @@ If you found this project useful:
 
 ---
 
-> Empowering students with AI-driven placement insights 🎯
+
